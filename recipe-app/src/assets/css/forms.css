@@ -1,0 +1,85 @@
+
+/* src/assets/css/forms.css */
+
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding: 20px;
+  background-color: var(--bg-light);
+}
+
+.auth-form-card {
+  background-color: var(--bg-white);
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 450px;
+  text-align: center;
+}
+
+.auth-form-card h2 {
+  margin-bottom: 30px;
+  color: var(--text-dark);
+  font-size: 2.2rem;
+}
+
+.form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--text-dark);
+  font-weight: 600;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group input[type="password"] {
+  width: 100%;
+  padding: 12px 15px;
+  border: 1px solid var(--border-color);
+  border-radius: 5px;
+  font-size: 1rem;
+  color: var(--text-dark);
+  background-color: var(--input-bg);
+  transition: border-color 0.3s ease;
+}
+
+.form-group input:focus {
+  border-color: var(--fc-primary);
+  outline: none;
+}
+
+.error-message {
+  color: var(--error-color);
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+.auth-form-card .common-btn {
+  width: 100%;
+  padding: 12px;
+  font-size: 1.1rem;
+  margin-top: 20px;
+}
+
+.auth-form-card p {
+  margin-top: 25px;
+  color: var(--text-muted);
+}
+
+.auth-form-card p a {
+  color: var(--fc-primary);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.auth-form-card p a:hover {
+  text-decoration: underline;
+}

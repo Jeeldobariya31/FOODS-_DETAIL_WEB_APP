@@ -1,0 +1,15 @@
+.common-btn, .link-btn {
+  border: 1px solid white !important;
+  background-color: black !important;
+  border-color: black !important;
+  border-radius: 999px;
+  padding: 0.55rem 1rem;
+  color: white !important;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.common-btn:hover, .link-btn:hover {
+  border-color: #cccccc !important;
+  background-color: #333333 !important;
+}

@@ -1,0 +1,59 @@
+.cat-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px 0;
+}
+
+.category-card {
+    position: relative;
+    width: 100%;
+    padding-top: 75%; /* 4:3 Aspect Ratio (height / width * 100%) */
+    background-color: #f8f9fa; /* Fallback color */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.category-card:hover {
+    transform: translateY(-5px);
+}
+
+.category-link {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: flex-end; /* Align text to the bottom */
+    text-decoration: none;
+    color: #fff; /* Text color */
+    z-index: 1;
+}
+
+.category-overlay {
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0) 100%);
+    padding: 15px;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.category-overlay h4 {
+    margin: 0;
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.fc-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out, background-color 0.3s ease-in-out, scale 0.3s ease-in-out;
+    background-color: #ffffff; /* Initial background color */
+}
+
+.fc-card:hover {
+    transform: translateY(-5px) scale(1.02); /* Lift and slightly enlarge */
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.3); /* More pronounced shadow */
+    background-color: #f0f0f0; /* Lighter background on hover */
+}

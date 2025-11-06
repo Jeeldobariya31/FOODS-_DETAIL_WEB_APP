@@ -1,0 +1,389 @@
+[
+  {
+    "id": "ft1",
+    "name": "Classic Brioche French Toast",
+    "image": "https://images.pexels.com/photos/3730596/pexels-photo-3730596.jpeg",
+    "ingredients": ["4 thick slices brioche bread", "2 large eggs", "1/2 cup milk", "1 tsp vanilla extract", "1 tsp cinnamon", "2 tbsp butter"],
+    "area": "French",
+    "instructions": "Whisk eggs, milk, vanilla, and cinnamon. Dip brioche slices in the mixture. Cook in a buttered skillet until golden brown on both sides.",
+    "tags": ["Classic", "Breakfast", "Sweet"]
+  },
+  {
+    "id": "ft2",
+    "name": "Nutella-Stuffed French Toast",
+    "image": "https://images.pexels.com/photos/5946633/pexels-photo-5946633.jpeg",
+    "ingredients": ["8 slices white bread", "1/2 cup Nutella", "2 large eggs", "1/2 cup milk", "1 tbsp sugar", "2 tbsp butter"],
+    "area": "International",
+    "instructions": "Spread Nutella between two slices of bread to make a sandwich. Dip the sandwich in an egg and milk mixture. Pan-fry until golden.",
+    "tags": ["Indulgent", "Chocolate", "Breakfast"]
+  },
+  {
+    "id": "ft3",
+    "name": "Savory Parmesan Herb French Toast",
+    "image": "https://images.pexels.com/photos/8963568/pexels-photo-8963568.jpeg",
+    "ingredients": ["4 slices sourdough bread", "2 large eggs", "1/4 cup milk", "1/4 cup grated Parmesan", "1 tbsp mixed herbs (chives, parsley)", "2 tbsp olive oil"],
+    "area": "Italian",
+    "instructions": "Whisk eggs, milk, Parmesan, and herbs. Dip sourdough slices and pan-fry in olive oil until crispy and golden.",
+    "tags": ["Savory", "Brunch", "Cheese"]
+  },
+  {
+    "id": "ft4",
+    "name": "Cinnamon Roll French Toast",
+    "image": "https://images.pexels.com/photos/17651372/pexels-photo-17651372/free-photo-of-french-toast-with-cinnamon-topping-and-blueberries.jpeg",
+    "ingredients": ["4 thick slices bread", "2 large eggs", "1/2 cup milk", "2 tbsp brown sugar", "1 tsp cinnamon", "Cream cheese icing for topping"],
+    "area": "American",
+    "instructions": "Create a cinnamon-sugar swirl in the egg batter. Dip bread and cook until golden. Drizzle with cream cheese icing.",
+    "tags": ["Sweet", "Dessert", "Cinnamon"]
+  },
+  {
+    "id": "ft5",
+    "name": "Challah French Toast with Berries",
+    "image": "https://images.pexels.com/photos/5638303/pexels-photo-5638303.jpeg",
+    "ingredients": ["4 thick slices challah bread", "2 large eggs", "1/2 cup cream", "1 tsp vanilla extract", "Mixed berries for topping"],
+    "area": "Jewish",
+    "instructions": "Soak challah bread in a rich egg and cream mixture. Pan-fry until golden and serve topped with fresh mixed berries.",
+    "tags": ["Classic", "Rich", "Fruit"]
+  },
+  {
+    "id": "ft6",
+    "name": "Vegan French Toast",
+    "image": "https://images.pexels.com/photos/8064733/pexels-photo-8064733.jpeg",
+    "ingredients": ["4 slices whole-wheat bread", "1/2 cup almond milk", "2 tbsp nutritional yeast", "1 tbsp maple syrup", "1/2 tsp cinnamon", "Coconut oil for frying"],
+    "area": "Vegan",
+    "instructions": "Create a batter with almond milk, nutritional yeast, syrup, and cinnamon. Dip bread and fry in coconut oil.",
+    "tags": ["Vegan", "Healthy", "Breakfast"]
+  },
+  {
+    "id": "ft7",
+    "name": "Overnight Baked French Toast Casserole",
+    "image": "https://images.pexels.com/photos/8695552/pexels-photo-8695552.jpeg",
+    "ingredients": ["1 loaf of French bread, cubed", "6 large eggs", "2 cups milk", "1/2 cup sugar", "1 tsp vanilla", "Cinnamon-sugar topping"],
+    "area": "American",
+    "instructions": "Arrange bread cubes in a baking dish. Pour egg mixture over and refrigerate overnight. Bake until golden and set.",
+    "tags": ["Casserole", "Make-Ahead", "Crowd-Pleaser"]
+  },
+  {
+    "id": "ft8",
+    "name": "Strawberry Cheesecake Stuffed French Toast",
+    "image": "https://images.pexels.com/photos/6210459/pexels-photo-6210459.jpeg",
+    "ingredients": ["8 slices brioche bread", "4 oz cream cheese", "1/4 cup sliced strawberries", "2 large eggs", "1/2 cup milk", "2 tbsp butter"],
+    "area": "American",
+    "instructions": "Mix cream cheese and strawberries. Spread between bread slices. Dip in egg mixture and pan-fry until golden.",
+    "tags": ["Stuffed", "Dessert", "Fruit"]
+  },
+  {
+    "id": "ft9",
+    "name": "Savory Monte Cristo French Toast",
+    "image": "https://images.pexels.com/photos/13539109/pexels-photo-13539109.jpeg",
+    "ingredients": ["4 slices white bread", "4 slices Swiss cheese", "4 slices ham", "2 large eggs", "1/4 cup milk", "2 tbsp butter"],
+    "area": "French-American",
+    "instructions": "Make a ham and cheese sandwich. Dip it in a savory egg batter and fry until the cheese is melted and the bread is golden.",
+    "tags": ["Savory", "Lunch", "Cheese"]
+  },
+  {
+    "id": "ft10",
+    "name": "Coconut Cream Pie French Toast",
+    "image": "https://images.pexels.com/photos/10354924/pexels-photo-10354924.jpeg",
+    "ingredients": ["4 thick slices bread", "2 large eggs", "1/2 cup coconut milk", "1/4 cup shredded coconut", "Whipped cream and toasted coconut for topping"],
+    "area": "Tropical",
+    "instructions": "Use coconut milk in the batter and coat the bread with shredded coconut before frying. Top with whipped cream.",
+    "tags": ["Sweet", "Tropical", "Dessert"]
+  },
+  {
+    "id": "ft11",
+    "name": "Apple Crumble French Toast",
+    "image": "https://images.pexels.com/photos/9028911/pexels-photo-9028911.jpeg",
+    "ingredients": ["4 slices challah bread", "2 eggs", "1/2 cup milk", "1 apple, diced", "2 tbsp brown sugar", "Oat crumble topping"],
+    "area": "American",
+    "instructions": "Sauté apples with brown sugar. Top French toast with cooked apples and a crunchy oat crumble.",
+    "tags": ["Fall", "Fruit", "Sweet"]
+  },
+  {
+    "id": "ft12",
+    "name": "French Toast Sticks",
+    "image": "https://images.pexels.com/photos/8695535/pexels-photo-8695535.jpeg",
+    "ingredients": ["6 slices thick-cut bread", "2 large eggs", "1/2 cup milk", "1 tsp cinnamon", "Maple syrup for dipping"],
+    "area": "American",
+    "instructions": "Cut bread into sticks. Dip in cinnamon-egg batter and cook on all sides until golden. Serve with maple syrup.",
+    "tags": ["Kid-Friendly", "Fun", "Breakfast"]
+  },
+  {
+    "id": "ft13",
+    "name": "Banana Bread French Toast",
+    "image": "https://images.pexels.com/photos/15707736/pexels-photo-15707736/free-photo-of-banana-bread-french-toast-on-plate.jpeg",
+    "ingredients": ["4 slices banana bread", "1 large egg", "1/4 cup milk", "1/2 tsp vanilla", "Walnuts and sliced bananas for topping"],
+    "area": "American",
+    "instructions": "Use slices of day-old banana bread. Dip briefly in a simple egg wash and pan-fry until warm and slightly crispy.",
+    "tags": ["Unique", "Sweet", "Fruit"]
+  },
+  {
+    "id": "ft14",
+    "name": "Savory Mushroom and Spinach French Toast",
+    "image": "https://images.pexels.com/photos/6605211/pexels-photo-6605211.jpeg",
+    "ingredients": ["4 slices whole-wheat bread", "2 eggs", "1/4 cup milk", "1 cup sautéed mushrooms and spinach", "Feta cheese crumbles"],
+    "area": "Mediterranean",
+    "instructions": "Make a savory French toast and top with sautéed mushrooms, spinach, and a sprinkle of feta cheese.",
+    "tags": ["Savory", "Vegetarian", "Brunch"]
+  },
+  {
+    "id": "ft15",
+    "name": "Orange Cardamom French Toast",
+    "image": "https://images.pexels.com/photos/11042571/pexels-photo-11042571.jpeg",
+    "ingredients": ["4 slices brioche bread", "2 eggs", "1/2 cup milk", "1 tsp orange zest", "1/2 tsp ground cardamom", "Honey for drizzling"],
+    "area": "Scandinavian",
+    "instructions": "Add orange zest and cardamom to the egg batter for a fragrant twist. Serve with a drizzle of honey.",
+    "tags": ["Aromatic", "Unique", "Sweet"]
+  },
+  {
+    "id": "ft16",
+    "name": "S'mores French Toast",
+    "image": "https://images.pexels.com/photos/14832360/pexels-photo-14832360.jpeg",
+    "ingredients": ["4 slices thick bread", "2 eggs", "1/4 cup milk", "Chocolate chips", "Mini marshmallows", "Crushed graham crackers"],
+    "area": "American",
+    "instructions": "Stuff French toast with chocolate and marshmallows. Coat with crushed graham crackers before frying.",
+    "tags": ["Indulgent", "Dessert", "Fun"]
+  },
+  {
+    "id": "ft17",
+    "name": "Pumpkin Spice French Toast",
+    "image": "https://images.pexels.com/photos/14234557/pexels-photo-14234557.jpeg",
+    "ingredients": ["4 slices bread", "2 eggs", "1/2 cup milk", "2 tbsp pumpkin puree", "1 tsp pumpkin pie spice", "Maple syrup"],
+    "area": "American",
+    "instructions": "Whisk pumpkin puree and spice into the egg batter. Cook as usual and serve with maple syrup.",
+    "tags": ["Fall", "Seasonal", "Sweet"]
+  },
+  {
+    "id": "ft18",
+    "name": "Lemon Ricotta Stuffed French Toast",
+    "image": "https://images.pexels.com/photos/12534571/pexels-photo-12534571.jpeg",
+    "ingredients": ["8 slices challah bread", "1/2 cup ricotta cheese", "1 tbsp lemon zest", "2 eggs", "1/2 cup milk", "Blueberry sauce"],
+    "area": "Italian-American",
+    "instructions": "Mix ricotta and lemon zest for the filling. Stuff between challah slices, dip in egg mix, and pan-fry. Serve with blueberry sauce.",
+    "tags": ["Stuffed", "Elegant", "Fruit"]
+  },
+  {
+    "id": "ft19",
+    "name": "Croissant French Toast",
+    "image": "https://images.pexels.com/photos/18287841/pexels-photo-18287841/free-photo-of-croissant-french-toast-on-a-plate.jpeg",
+    "ingredients": ["4 croissants, halved", "2 eggs", "1/2 cup milk", "1 tsp vanilla", "Powdered sugar"],
+    "area": "French",
+    "instructions": "Use day-old croissants. Dip briefly in egg mixture and pan-fry until golden. Dust with powdered sugar.",
+    "tags": ["Buttery", "Rich", "Elegant"]
+  },
+  {
+    "id": "ft20",
+    "name": "Hong Kong-Style French Toast",
+    "image": "https://images.pexels.com/photos/7955030/pexels-photo-7955030.jpeg",
+    "ingredients": ["4 slices white bread", "2 tbsp peanut butter", "1 egg", "Condensed milk", "Butter"],
+    "area": "Asian",
+    "instructions": "Make a peanut butter sandwich, dip in egg, and deep-fry until golden. Serve with a slice of butter and condensed milk.",
+    "tags": ["Unique", "Deep-Fried", "Sweet"]
+  },
+  {
+    "id": "ft21",
+    "name": "Coffee-Infused French Toast",
+    "image": "https://images.pexels.com/photos/17983636/pexels-photo-17983636/free-photo-of-a-cup-of-coffee-and-french-toast-on-a-plate.jpeg",
+    "ingredients": ["4 slices thick bread", "2 eggs", "1/2 cup strong brewed coffee, chilled", "2 tbsp cream", "Chocolate sauce"],
+    "area": "International",
+    "instructions": "Add chilled coffee and cream to the egg batter. Cook and serve with a drizzle of chocolate sauce.",
+    "tags": ["Coffee", "Unique", "Breakfast"]
+  },
+  {
+    "id": "ft22",
+    "name": "Almond-Crusted French Toast",
+    "image": "https://images.pexels.com/photos/12839556/pexels-photo-12839556.jpeg",
+    "ingredients": ["4 slices brioche", "2 eggs", "1/4 cup milk", "1/2 cup sliced almonds", "1 tsp almond extract", "Raspberry coulis"],
+    "area": "French",
+    "instructions": "Add almond extract to the batter. Press sliced almonds onto the bread before frying for a crunchy crust.",
+    "tags": ["Crunchy", "Nuts", "Elegant"]
+  },
+  {
+    "id": "ft23",
+    "name": "Savory Caprese French Toast",
+    "image": "https://images.pexels.com/photos/845811/pexels-photo-845811.jpeg",
+    "ingredients": ["4 slices Italian bread", "2 eggs", "1/4 cup milk", "Fresh mozzarella", "Cherry tomatoes", "Balsamic glaze"],
+    "area": "Italian",
+    "instructions": "Prepare a savory French toast. Top with fresh mozzarella, halved cherry tomatoes, and a drizzle of balsamic glaze.",
+    "tags": ["Savory", "Fresh", "Brunch"]
+  },
+  {
+    "id": "ft24",
+    "name": "Gingerbread French Toast",
+    "image": "https://images.pexels.com/photos/14740263/pexels-photo-14740263.jpeg",
+    "ingredients": ["4 slices bread", "2 eggs", "1/2 cup milk", "1 tbsp molasses", "1 tsp ground ginger", "1/2 tsp cinnamon", "Whipped cream"],
+    "area": "American",
+    "instructions": "Add molasses and gingerbread spices to the egg batter for a festive flavor. Serve with whipped cream.",
+    "tags": ["Holiday", "Spiced", "Sweet"]
+  },
+  {
+    "id": "ft25",
+    "name": "Peanut Butter & Banana French Toast",
+    "image": "https://images.pexels.com/photos/13606300/pexels-photo-13606300.jpeg",
+    "ingredients": ["8 slices bread", "1/2 cup peanut butter", "2 bananas, sliced", "2 eggs", "1/2 cup milk", "Honey"],
+    "area": "American",
+    "instructions": "Make peanut butter and banana sandwiches. Dip in egg batter and pan-fry until golden. Drizzle with honey.",
+    "tags": ["Classic Combo", "Kid-Friendly", "Hearty"]
+  },
+  {
+    "id": "ft26",
+    "name": "Matcha Green Tea French Toast",
+    "image": "https://images.pexels.com/photos/13434629/pexels-photo-13434629.jpeg",
+    "ingredients": ["4 slices milk bread", "2 eggs", "1/2 cup milk", "1 tbsp matcha powder", "Sweet red bean paste"],
+    "area": "Japanese",
+    "instructions": "Whisk matcha powder into the egg batter. Serve the French toast with a side of sweet red bean paste.",
+    "tags": ["Asian", "Unique", "Earthy"]
+  },
+  {
+    "id": "ft27",
+    "name": "Cornflake-Crusted French Toast",
+    "image": "https://images.pexels.com/photos/18444399/pexels-photo-18444399/free-photo-of-cornflake-crusted-french-toast-on-a-plate.jpeg",
+    "ingredients": ["4 slices thick bread", "2 eggs", "1/4 cup milk", "1 cup crushed cornflakes", "Berries and syrup"],
+    "area": "American",
+    "instructions": "After dipping in egg, coat the bread with crushed cornflakes for an extra crunchy texture before frying.",
+    "tags": ["Crunchy", "Classic", "Breakfast"]
+  },
+  {
+    "id": "ft28",
+    "name": "Savory Avocado and Egg French Toast",
+    "image": "https://images.pexels.com/photos/7937395/pexels-photo-7937395.jpeg",
+    "ingredients": ["2 slices sourdough", "1 egg", "2 tbsp milk", "1/2 avocado, mashed", "1 fried egg", "Chili flakes"],
+    "area": "International",
+    "instructions": "Make savory French toast. Top with mashed avocado, a fried egg, and a sprinkle of chili flakes.",
+    "tags": ["Savory", "Healthy", "Brunch"]
+  },
+  {
+    "id": "ft29",
+    "name": "Caramel Apple Stuffed French Toast",
+    "image": "https://images.pexels.com/photos/6210471/pexels-photo-6210471.jpeg",
+    "ingredients": ["8 slices bread", "1 apple, diced and cooked", "Caramel sauce", "2 eggs", "1/2 cup milk", "Cinnamon"],
+    "area": "American",
+    "instructions": "Stuff bread with cooked apples and caramel sauce. Dip in a cinnamon-egg batter and fry.",
+    "tags": ["Stuffed", "Fall", "Indulgent"]
+  },
+  {
+    "id": "ft30",
+    "name": "Irish Cream French Toast",
+    "image": "https://images.pexels.com/photos/5410853/pexels-photo-5410853.jpeg",
+    "ingredients": ["4 slices challah", "2 eggs", "1/4 cup milk", "1/4 cup Irish cream liqueur", "Whipped cream", "Chocolate shavings"],
+    "area": "Irish",
+    "instructions": "Add Irish cream liqueur to the batter for a boozy kick. Garnish with whipped cream and chocolate.",
+    "tags": ["Boozy", "Dessert", "Adults-Only"]
+  },
+  {
+    "id": "ft31",
+    "name": "Pain Perdu (New Orleans French Toast)",
+    "image": "https://images.pexels.com/photos/10313174/pexels-photo-10313174.jpeg",
+    "ingredients": ["1 loaf French bread, stale", "3 eggs", "1 cup milk", "1/2 cup sugar", "1 tsp vanilla", "Powdered sugar"],
+    "area": "Cajun/Creole",
+    "instructions": "Soak stale French bread slices in a rich, sweet custard. Pan-fry until deeply golden and caramelized. Dust with powdered sugar.",
+    "tags": ["Classic", "Rich", "New Orleans"]
+  },
+  {
+    "id": "ft32",
+    "name": "Mascarpone and Fig French Toast",
+    "image": "https://images.pexels.com/photos/606555/pexels-photo-606555.jpeg",
+    "ingredients": ["4 slices brioche", "2 eggs", "1/4 cup cream", "1/4 cup mascarpone cheese", "Fresh figs, sliced", "Honey"],
+    "area": "Mediterranean",
+    "instructions": "Make a classic French toast and top with dollops of mascarpone, fresh fig slices, and a drizzle of honey.",
+    "tags": ["Elegant", "Fruit", "Gourmet"]
+  },
+  {
+    "id": "ft33",
+    "name": "Hawaiian Roll French Toast",
+    "image": "https://images.pexels.com/photos/15647573/pexels-photo-15647573/free-photo-of-french-toast-with-strawberries.jpeg",
+    "ingredients": ["8 Hawaiian sweet rolls", "2 eggs", "1/2 cup milk", "Pineapple chunks", "Toasted coconut"],
+    "area": "American/Polynesian",
+    "instructions": "Use sweet Hawaiian rolls for a fluffy, sweet base. Top with pineapple and toasted coconut.",
+    "tags": ["Sweet", "Tropical", "Unique"]
+  },
+  {
+    "id": "ft34",
+    "name": "Savory Bacon and Cheddar French Toast",
+    "image": "https://images.pexels.com/photos/14704873/pexels-photo-14704873.jpeg",
+    "ingredients": ["4 slices Texas toast", "2 eggs", "1/4 cup milk", "4 slices cooked bacon, crumbled", "1/2 cup shredded cheddar cheese"],
+    "area": "American",
+    "instructions": "Mix crumbled bacon and cheddar into the savory egg batter. Cook until the cheese is melted and crispy.",
+    "tags": ["Savory", "Hearty", "Breakfast"]
+  },
+  {
+    "id": "ft35",
+    "name": "Chocolate Chip Cookie Dough Stuffed French Toast",
+    "image": "https://images.pexels.com/photos/18444391/pexels-photo-18444391/free-photo-of-stuffed-french-toast-on-a-plate.jpeg",
+    "ingredients": ["8 slices bread", "1/2 cup edible cookie dough", "2 eggs", "1/2 cup milk", "Chocolate syrup"],
+    "area": "American",
+    "instructions": "Stuff French toast with edible cookie dough. Pan-fry and serve warm with a drizzle of chocolate syrup.",
+    "tags": ["Indulgent", "Dessert", "Stuffed"]
+  },
+  {
+    "id": "ft36",
+    "name": "Maple Pecan Baked French Toast",
+    "image": "https://images.pexels.com/photos/17950348/pexels-photo-17950348/free-photo-of-pecan-french-toast-casserole.jpeg",
+    "ingredients": ["1 loaf challah, cubed", "6 eggs", "2 cups milk", "1/2 cup maple syrup", "1 cup chopped pecans", "Butter"],
+    "area": "American",
+    "instructions": "An overnight casserole with a rich maple custard, topped with buttery pecans before baking.",
+    "tags": ["Make-Ahead", "Nuts", "Casserole"]
+  },
+  {
+    "id": "ft37",
+    "name": "Red Velvet French Toast",
+    "image": "https://images.pexels.com/photos/12840131/pexels-photo-12840131.jpeg",
+    "ingredients": ["4 slices thick bread", "2 eggs", "1/2 cup buttermilk", "1 tbsp cocoa powder", "Red food coloring", "Cream cheese glaze"],
+    "area": "American",
+    "instructions": "Create a red velvet batter with cocoa and red food coloring. Serve with a sweet cream cheese glaze.",
+    "tags": ["Dessert", "Unique", "Sweet"]
+  },
+  {
+    "id": "ft38",
+    "name": "Everything Bagel French Toast",
+    "image": "https://images.pexels.com/photos/1352296/pexels-photo-1352296.jpeg",
+    "ingredients": ["2 everything bagels, halved", "2 eggs", "3 tbsp milk", "Cream cheese", "Smoked salmon"],
+    "area": "American",
+    "instructions": "Use everything bagels for a savory twist. Dip in egg and pan-fry. Serve with cream cheese and smoked salmon.",
+    "tags": ["Savory", "Brunch", "Unique"]
+  },
+  {
+    "id": "ft39",
+    "name": "Tiramisu French Toast",
+    "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg",
+    "ingredients": ["4 slices panettone or brioche", "2 eggs", "1/4 cup strong coffee", "2 tbsp mascarpone", "Cocoa powder"],
+    "area": "Italian",
+    "instructions": "Soak bread in a coffee-egg mixture. Serve topped with mascarpone and a dusting of cocoa powder.",
+    "tags": ["Coffee", "Dessert", "Gourmet"]
+  },
+  {
+    "id": "ft40",
+    "name": "Churro French Toast Sticks",
+    "image": "https://images.pexels.com/photos/17749328/pexels-photo-17749328/free-photo-of-churro-french-toast-sticks-with-chocolate-sauce.jpeg",
+    "ingredients": ["6 slices bread", "2 eggs", "1/4 cup milk", "1/2 cup sugar", "2 tsp cinnamon", "Chocolate dipping sauce"],
+    "area": "Mexican",
+    "instructions": "Make French toast sticks, then immediately roll them in a cinnamon-sugar mixture. Serve with chocolate sauce.",
+    "tags": ["Sweet", "Kid-Friendly", "Dessert"]
+  },
+  {
+    "id": "ft41",
+    "name": "Vegan Banana French Toast",
+    "image": "https://images.pexels.com/photos/8064728/pexels-photo-8064728.jpeg",
+    "ingredients": ["4 slices bread", "1 ripe banana, mashed", "1/2 cup plant-based milk", "1 tsp cinnamon", "Maple syrup"],
+    "area": "Vegan",
+    "instructions": "Use mashed banana as the egg substitute in your batter. Fry until golden and serve with syrup.",
+    "tags": ["Vegan", "Fruit", "Healthy"]
+  },
+  {
+    "id": "ft42",
+    "name": "Peaches and Cream French Toast",
+    "image": "https://images.pexels.com/photos/12949556/pexels-photo-12949556.jpeg",
+    "ingredients": ["4 slices thick bread", "2 eggs", "1/2 cup milk", "1 peach, sliced", "2 tbsp heavy cream", "Brown sugar"],
+    "area": "American",
+    "instructions": "Sauté peaches with brown sugar. Make a classic French toast and top with the warm peaches and a drizzle of cream.",
+    "tags": ["Summer", "Fruit", "Sweet"]
+  },
+  {
+    "id": "ft43",
+    "name": "Sourdough French Toast with Berry Compote",
+    "image": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg",
+    "ingredients": ["4 slices sourdough bread", "2 eggs", "1/2 cup milk", "1 cup mixed berries", "1 tbsp sugar", "Plain yogurt"],
+    "area": "International",
+    "instructions": "Use sourdough for a slightly tangy base. Simmer berries and sugar to make a simple compote. Serve toast with compote and yogurt.",
+    "tags": ["Tangy", "Fruit", "Healthy"]
+  }
+]

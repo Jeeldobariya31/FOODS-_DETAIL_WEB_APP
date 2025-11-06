@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "title": "Garlic Butter Chicken",
+      "description": "Pan-seared chicken in garlic butter sauce.",
+      "image": "../images/ph1.jpg",
+      "category": "Dinner Recipes"
+    },
+    {
+      "title": "Creamy Tuscan Pasta",
+      "description": "Sun-dried tomatoes and spinach in a rich cream sauce.",
+      "image": "../images/ph1.jpg",
+      "category": "Pasta"
+    },
+    {
+      "title": "Classic Pancakes",
+      "description": "Fluffy pancakes perfect with syrup.",
+      "image": "../images/ph1.jpg",
+      "category": "Breakfast & Brunch Recipes"
+    },
+    {
+      "title": "Chocolate Chip Cookies",
+      "description": "Crispy edges, chewy center.",
+      "image": "../images/ph1.jpg",
+      "category": "Dessert Recipes"
+    },
+    {
+      "title": "Chicken Tacos",
+      "description": "Weeknight-friendly seasoned tacos.",
+      "image": "../images/ph1.jpg",
+      "category": "Mexican Recipes"
+    },
+    {
+      "title": "Margherita Pizza",
+      "description": "Classic with tomatoes and basil.",
+      "image": "../images/ph1.jpg",
+      "category": "Italian Recipes"
+    },
+    {
+      "title": "Butter Chicken",
+      "description": "Creamy tomato-based curry.",
+      "image": "../images/ph1.jpg",
+      "category": "Indian Recipes"
+    },
+    {
+      "title": "Buddha Bowl",
+      "description": "Nutritious bowl with grains and greens.",
+      "image": "../images/ph1.jpg",
+      "category": "Vegan Recipes"
+    },
+    {
+      "title": "Veggie Lasagna",
+      "description": "Layered pasta with veggies and cheese.",
+      "image": "../images/ph1.jpg",
+      "category": "Vegetarian"
+    },
+    {
+      "title": "Zucchini Noodles Alfredo",
+      "description": "Creamy and low-carb.",
+      "image": "../images/ph1.jpg",
+      "category": "Keto Recipes"
+    },
+    {
+      "title": "Lemon Herb Chicken",
+      "description": "Bright, zesty chicken dinner.",
+      "image": "../images/ph1.jpg",
+      "category": "Chicken"
+    },
+    {
+      "title": "Beef Stir Fry",
+      "description": "Quick wok-tossed beef and veggies.",
+      "image": "../images/ph1.jpg",
+      "category": "Beef"
+    },
+    {
+      "title": "Honey Garlic Pork Chops",
+      "description": "Sweet and savory glazed pork chops.",
+      "image": "../images/ph1.jpg",
+      "category": "Pork"
+    },
+    {
+      "title": "Grilled Lamb Skewers",
+      "description": "Herby lamb on skewers.",
+      "image": "../images/ph1.jpg",
+      "category": "Lamb"
+    },
+    {
+      "title": "Shrimp Scampi",
+      "description": "Garlicky buttery shrimp pasta.",
+      "image": "../images/ph1.jpg",
+      "category": "Seafood"
+    },
+    {
+      "title": "Pad Thai",
+      "description": "Stir-fried rice noodles with tamarind.",
+      "image": "../images/ph1.jpg",
+      "category": "Thai"
+    },
+    {
+      "title": "Teriyaki Chicken Bowl",
+      "description": "Savory-sweet glazed chicken.",
+      "image": "../images/ph1.jpg",
+      "category": "Japanese"
+    },
+    {
+      "title": "Kung Pao Chicken",
+      "description": "Spicy Sichuan chicken stir-fry.",
+      "image": "../images/ph1.jpg",
+      "category": "Chinese"
+    },
+    {
+      "title": "Berry Salad",
+      "description": "Fresh greens with berries and vinaigrette.",
+      "image": "../images/ph1.jpg",
+      "category": "Summer Recipes"
+    },
+    {
+      "title": "Pumpkin Soup",
+      "description": "Creamy autumn soup.",
+      "image": "../images/ph1.jpg",
+      "category": "Fall Recipes"
+    },
+    {
+      "title": "Roast Turkey",
+      "description": "Holiday centerpiece.",
+      "image": "../images/ph1.jpg",
+      "category": "Thanksgiving Recipes"
+    },
+    {
+      "title": "Sugar Cookies",
+      "description": "Festive cookies for the season.",
+      "image": "../images/ph1.jpg",
+      "category": "Christmas Recipes"
+    },
+    {
+      "title": "Party Appetizer Platter",
+      "description": "Assorted bites for the celebration.",
+      "image": "../images/ph1.jpg",
+      "category": "New Year Recipes"
+    },
+    {
+      "title": "Hearty Beef Stew",
+      "description": "Comforting stew for cold days.",
+      "image": "../images/ph1.jpg",
+      "category": "Winter Recipes"
+    },
+    {
+      "title": "Asparagus Risotto",
+      "description": "Bright spring risotto.",
+      "image": "../images/ph1.jpg",
+      "category": "Spring Recipes"
+    },
+    {
+      "title": "Mediterranean Quinoa Salad",
+      "description": "Lemony salad with olives and feta.",
+      "image": "../images/ph1.jpg",
+      "category": "Mediterranean"
+    },
+    {
+      "title": "Popular Casserole",
+      "description": "Crowd-pleasing bake.",
+      "image": "../images/ph1.jpg",
+      "category": "Popular Recipes"
+    }
+  ]
+}

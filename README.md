@@ -201,5 +201,5 @@ _(No dependencies listed in package.json; may rely on React defaults in project 
 
 ## 📄 License
 
-MIT License (suggested). You can replace with your preferred license.
+-For Learning only 
 
